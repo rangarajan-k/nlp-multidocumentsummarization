@@ -1,0 +1,2 @@
+# nlp-multidocumentsummarization
+School project
